@@ -1,10 +1,6 @@
 [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Lng4wb3ya85nV8aI7ctEpEgFyYelZXka?usp=sharing)
 
-# Log Anomaly Detection and Event Correlation
-
-This repository provides a step-by-step pipeline for detecting anomalies and correlating events in log data. It uses Semantic Embeddings, Autoencoders, and Graph-Based Clustering to analyze log data and produce meaningful insights.
-
----
+# Event Correlation
 
 ## **Overview**
 
