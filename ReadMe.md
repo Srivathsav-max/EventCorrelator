@@ -174,18 +174,3 @@ incident_df.to_csv('/content/incidents.csv', index=False)
 ## **Outputs**
 - **Anomaly Detection Results**: Adds an `is_anomaly` column to the original dataset.
 - **Incident Report**: Outputs a CSV file with cluster details.
-
----
-
-## **License**
-This project is licensed under the MIT License.
-
----
-
-## **Contributing**
-Feel free to open issues or submit pull requests.
-
----
-
-## **Contact**
-For questions, contact [Your Name] at [your.email@example.com].
